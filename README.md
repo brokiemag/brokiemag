@@ -41,13 +41,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brokiemag&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<h3 align="center">
 <details>
-  <summary>:zap: 📊 My Github Stats</summary>
+  <summary> 📊 My Github Stats</summary>
 
   <br/>
-    <a align="center" href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="center" alt="Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brokiemag&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a align="center" href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="center" alt="Sohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokiemag&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="center" href="https://github.com/brokiemag/github-readme-stats"><img align="center" alt="Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brokiemag&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a align="center" href="https://github.com/brokiemag/github-readme-stats"><img align="center" alt="Sohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokiemag&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b align="center" >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,11 +55,12 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img width="100%" height="auto" align="center" alt="Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brokiemag&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/brokiemag/github-readme-activity-graph"><img width="100%" height="auto" align="center" alt="Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brokiemag&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 </details>
+    </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
