@@ -7,11 +7,11 @@
 <h3 align="center">🙋‍♂️ About Me</h3>
 
 
-- 🔭 I’m currently working on **[LaZagne](https://github.com/AlessandroZ/LaZagne)**
+- 🔭 I’m currently working on **Excel Automation**
 
 - 🌱 I’m currently trying to master **Python**
 
-- 👯 I’m looking to collaborate on **LaZagne**
+- 👯 I’m looking to collaborate with **Freelancing tutor's **
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://brokiemag.ml)**
 
