@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently trying to master **Python**
 
-- 👯 I’m looking to collaborate with **Freelancing tutor's**
+- 👯 I’m looking to collaborate with **Automation Engineer**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://brokiemag.ml)**
 
