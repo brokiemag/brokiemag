@@ -3,22 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sohan</h1>
 <h3 align="center">Me as 14 y/o try to ease my life</h3>
 
-
-<h3 align="center">🙋‍♂️ About Me</h3>
-
-
-- 🔭 I’m currently working on **Excel Automation**
-
-- 🌱 I’m currently trying to master **Python**
-
-- 👯 I’m looking to collaborate with **Automation Engineer**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://brokiemag.ml)**
-
-- 📫 How to reach me **[Mail me](contact@brokiemag.ml)**
-
-- ⚡ Fun fact **Code does my work**
-
 <h3 align="center"> 🚀 Languages and Tools:</h3>
 
 <p align="center"> 
